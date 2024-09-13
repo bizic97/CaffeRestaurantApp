@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|c:\\c#\\advanced c#\\app for catering objects\\cafferestaurantshopapp\\cafferestaurantapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\vieworders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|solutionrelative:vieworders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\vieworders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|solutionrelative:vieworders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\employeeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|solutionrelative:employeeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\employeeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|solutionrelative:employeeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\guestorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|solutionrelative:guestorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\guestorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50A5C692-BA11-4AD4-A55F-FA75AF001CC2}|CaffeRestaurantApp.csproj|solutionrelative:guestorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\LogIn.cs",
+              "RelativeDocumentMoniker": "LogIn.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\LogIn.cs",
+              "RelativeToolTip": "LogIn.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADgvx4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:58:38.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\LogIn.cs",
+              "RelativeDocumentMoniker": "LogIn.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\LogIn.cs [Design]",
+              "RelativeToolTip": "LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:58:34.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:00:06.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewOrders.cs",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\ViewOrders.cs",
+              "RelativeDocumentMoniker": "ViewOrders.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\ViewOrders.cs",
+              "RelativeToolTip": "ViewOrders.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAewDsAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:53:21.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewOrders.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\ViewOrders.cs",
+              "RelativeDocumentMoniker": "ViewOrders.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\ViewOrders.cs [Design]",
+              "RelativeToolTip": "ViewOrders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:48:17.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeOrder.cs",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\EmployeeOrder.cs",
+              "RelativeDocumentMoniker": "EmployeeOrder.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\EmployeeOrder.cs",
+              "RelativeToolTip": "EmployeeOrder.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAjwKAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:09:05.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GuestOrders.cs",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\GuestOrders.cs",
+              "RelativeDocumentMoniker": "GuestOrders.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\GuestOrders.cs",
+              "RelativeToolTip": "GuestOrders.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:58:42.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeOrder.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\EmployeeOrder.cs",
+              "RelativeDocumentMoniker": "EmployeeOrder.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\EmployeeOrder.cs [Design]",
+              "RelativeToolTip": "EmployeeOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:55:16.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GuestOrders.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\GuestOrders.cs",
+              "RelativeDocumentMoniker": "GuestOrders.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\App for catering objects\\CaffeRestaurantShopApp\\CaffeRestaurantApp\\GuestOrders.cs [Design]",
+              "RelativeToolTip": "GuestOrders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:55:14.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

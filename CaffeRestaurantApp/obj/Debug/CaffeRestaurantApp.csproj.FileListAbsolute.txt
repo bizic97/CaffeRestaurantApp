@@ -1,0 +1,16 @@
+C:\C#\Advanced C#\App for catering objects\CaffeRestaurantShopApp\CaffeRestaurantApp\bin\Debug\CateringShopApp.exe.config
+C:\C#\Advanced C#\App for catering objects\CaffeRestaurantShopApp\CaffeRestaurantApp\bin\Debug\CateringShopApp.exe
+C:\C#\Advanced C#\App for catering objects\CaffeRestaurantShopApp\CaffeRestaurantApp\bin\Debug\CateringShopApp.pdb
+C:\C#\Advanced C#\App for catering objects\CaffeRestaurantShopApp\CaffeRestaurantApp\obj\Debug\CaffeRestaurantApp.csproj.AssemblyReference.cache
+C:\C#\Advanced C#\App for catering objects\CaffeRestaurantShopApp\CaffeRestaurantApp\obj\Debug\CateringShopApp.EmployeeOrder.resources
+C:\C#\Advanced C#\App for catering objects\CaffeRestaurantShopApp\CaffeRestaurantApp\obj\Debug\CateringShopApp.GuestOrders.resources
+C:\C#\Advanced C#\App for catering objects\CaffeRestaurantShopApp\CaffeRestaurantApp\obj\Debug\CateringShopApp.LogIn.resources
+C:\C#\Advanced C#\App for catering objects\CaffeRestaurantShopApp\CaffeRestaurantApp\obj\Debug\CateringShopApp.Properties.Resources.resources
+C:\C#\Advanced C#\App for catering objects\CaffeRestaurantShopApp\CaffeRestaurantApp\obj\Debug\CaffeRestaurantApp.csproj.GenerateResource.cache
+C:\C#\Advanced C#\App for catering objects\CaffeRestaurantShopApp\CaffeRestaurantApp\obj\Debug\CaffeRestaurantApp.csproj.CoreCompileInputs.cache
+C:\C#\Advanced C#\App for catering objects\CaffeRestaurantShopApp\CaffeRestaurantApp\obj\Debug\CateringShopApp.exe
+C:\C#\Advanced C#\App for catering objects\CaffeRestaurantShopApp\CaffeRestaurantApp\obj\Debug\CateringShopApp.pdb
+C:\C#\Advanced C#\App for catering objects\CaffeRestaurantShopApp\CaffeRestaurantApp\obj\Debug\CateringShopApp.Items.resources
+C:\C#\Advanced C#\App for catering objects\CaffeRestaurantShopApp\CaffeRestaurantApp\obj\Debug\CateringShopApp.Users.resources
+C:\C#\Advanced C#\App for catering objects\CaffeRestaurantShopApp\CaffeRestaurantApp\obj\Debug\CateringShopApp.CreateNewEmployee.resources
+C:\C#\Advanced C#\App for catering objects\CaffeRestaurantShopApp\CaffeRestaurantApp\obj\Debug\CateringShopApp.ViewOrders.resources
